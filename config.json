@@ -1,6 +1,6 @@
 ﻿{
     "database": {
-        "host": "localhost",
+        "host": "us-cdbr-east-02.cleardb.com",
         "port": 3306,
         "user": "b6aab99f11e5f6",
         "password": "d2e276c5",
