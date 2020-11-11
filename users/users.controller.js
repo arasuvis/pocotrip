@@ -41,11 +41,9 @@ function registerSchema(req, res, next) {
 }
 
 function register(req, res, next) {
-    console.log(req);
-    res.json({ message: 'Registration successful' });
-   /* userService.create(req.body)
+    userService.create(req.body)
         .then(() => res.json({ message: 'Registration successful' }))
-        .catch(next);*/
+        .catch(next);
 }
 
 function getAll(req, res, next) {
