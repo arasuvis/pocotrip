@@ -1,10 +1,10 @@
 ﻿{
     "database": {
-        "host": "localhost",
+        "host": "us-cdbr-east-02.cleardb.com",
         "port": 3306,
-        "user": "root",
-        "password": "root",
-        "database": "node-mysql-registration-login-api"
+        "user": "b6aab99f11e5f6",
+        "password": "d2e276c5",
+        "database": "heroku_572a3fa18816792"
     },
     "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
 }
